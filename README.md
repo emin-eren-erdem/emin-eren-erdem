@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://api.daily.dev/devcards/2abc6812112c49e89a0fea92410f772d.png?r=ijx
+<a href="https://api.daily.dev/devcards/2abc6812112c49e89a0fea92410f772d.png?r=ijx"></a>
 
 <!--
 **emin-eren-erdem/emin-eren-erdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
