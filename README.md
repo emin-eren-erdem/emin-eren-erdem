@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eren.</h1>
 <h3 align="center">A junior backend developer from Turkey.</h3>
 
+<a href="https://app.daily.dev/erenerdem"><img src="https://api.daily.dev/devcards/2abc6812112c49e89a0fea92410f772d.png?r=1k1" width="400" alt="Eren's Dev Card"/></a>
+
 <h3 align="center">Connect with me:</h3>
 <p align="cetnter">
 <a href="https://dev.to/erenerdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="erenerdem" height="30" width="40" /></a>
