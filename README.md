@@ -1,6 +1,6 @@
 <div align="left">
 <h2 align="left">Hi 👋</h1>
-<a href="https://app.daily.dev/erenerdem"><img src="https://api.daily.dev/devcards/2abc6812112c49e89a0fea92410f772d.png?r=1k1" width="200" alt="Eren's Dev Card"/></a></div>
+<a href="https://app.daily.dev/erenerdem"><img src="https://api.daily.dev/devcards/v2/6wb9naaaDPn5e7S2yNeBB.png?type=wide&r=cvl" width="652" alt="Eren's Dev Card"/></a></div>
 <div align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
